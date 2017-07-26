@@ -1,0 +1,2 @@
+# backToBasics
+This is the first of may c# Console applications I will be creating. I am learning c# in a fashion where I am going to wipe the slate clean and start fresh to get a better understanding on the language. All of this is to be able to create client facing applications that are integrated with back-end infrastructure. That is the structure for starting basic and building up to a healthy knowledge of c#. 
